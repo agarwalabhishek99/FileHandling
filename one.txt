@@ -1,0 +1,3 @@
+Python World..
+Hello World!!!!
+This is example for file handling in python
